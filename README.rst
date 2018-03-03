@@ -32,5 +32,5 @@ To use:
 .. |Build Status| image:: https://travis-ci.org/nose-my-code/nose-my-code.svg?branch=master
     :target: https://travis-ci.org/nose-my-code/nose-my-code
 
-.. |Pypi Status| image:: https://pypip.in/v/restnavigator/badge.png
+.. |Pypi Status| image:: https://img.shields.io/pypi/v/restnavigator.svg
     :target: https://pypi.python.org/pypi/nose-mycode/
